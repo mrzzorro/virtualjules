@@ -1,1 +1,2 @@
 Laravel development server started: http://0.0.0.0:8000
+[Thu Aug 14 21:42:21 2025] Failed to listen on 0.0.0.0:8000 (reason: Address already in use)
